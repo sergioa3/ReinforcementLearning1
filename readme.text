@@ -1,6 +1,6 @@
 The problem solved is introduced in the PDF. 
 
-The code that runs the three versions of VI is Jacobi.py in the Final folder.
+The code that runs the three versions of VI is Jacobi.py.
 
 It prints the amount of iterations each took to converge along with other information including the optimal policy
 found by each algorithm.
